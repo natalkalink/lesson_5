@@ -1,0 +1,55 @@
+@import url("https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap");
+
+@font-face {
+  font-family: "Tuffy";
+  src: url(..fonts/Tuffy.woff2) format("woff2"),
+    url(..fontsTuffy.woff) format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tuffy";
+  src: url(..fonts/Tuffy-Bold.woff2) format("woff2"),
+    url(..fonts/Tuffy-Bold.woff) format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Tuffy";
+  src: url(..fonts/Tuffy-Italic.woff2) format("woff2"),
+    url(..fonts/Tuffy-Italic.woff) format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Philosopher";
+  src: url(..fonts/Philosopher.woff2) format("woff2"),
+    url(..fonts/Philosopher.woff) format("woff");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Philosopher";
+  src: url(..fonts/Philosopher-Bold.woff2) format("woff2"),
+    url(..fonts/Philosopher-Bold.woff) format("woff");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Philosopher";
+  src: url(..fonts/Philosopher-Italic.woff2) format("woff2"),
+    url(..fonts/Philosopher-Italic.woff) format("woff");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
